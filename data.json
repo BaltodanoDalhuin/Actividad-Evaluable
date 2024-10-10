@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jose Daniel",
+    "cantidad": 40,
+    "precio": 400
+  },
+  {
+    "nombre": "Dalhuin",
+    "cantidad": 10,
+    "precio": 300
+  },
+  {
+    "id": 2,
+    "nombre": "Dalhuin",
+    "cantidad": 10,
+    "precio": 300
+  }
+]
